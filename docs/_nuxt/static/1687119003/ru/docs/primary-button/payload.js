@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/ru/docs/primary-button", {data:[{}],fetch:{},mutations:void 0});
