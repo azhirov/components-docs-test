@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/docs/group1/group-page", {data:[{}],fetch:{},mutations:void 0});
